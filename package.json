@@ -1,0 +1,27 @@
+{
+  "name": "nuuvnet-api-client",
+  "version": "0.0.1",
+  "description": "API Client by Nuuv Networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuuvnet/api-client.git"
+  },
+  "keywords": [
+    "nuuvnet",
+    "api",
+    "client",
+    "graphql",
+    "nuuv",
+    "networks"
+  ],
+  "author": "Nuuv Networks <dev@nuuv.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuuvnet/api-client/issues"
+  },
+  "homepage": "https://github.com/nuuvnet/api-client#readme"
+}
